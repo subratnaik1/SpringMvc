@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+E:\Github\SpringMvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1308587852.index
+\WelcomeMsg\src\main\java
