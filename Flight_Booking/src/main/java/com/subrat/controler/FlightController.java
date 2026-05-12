@@ -16,7 +16,6 @@ public class FlightController {
 		int finalAmt=f.getAirfare()*10;
 		f.setFinalAmt(finalAmt);
 		model.addAttribute("flight", f);
-
 		return "flight";
 	}
 }
